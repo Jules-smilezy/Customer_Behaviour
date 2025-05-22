@@ -47,8 +47,8 @@ Products were categorized based on their unit price into:
 
 | Price Group       | Top 10 Frequently Ordered | Top 10 Most Sold (Quantity) | Top 10 Most Sold (Sales) |
 |-------------------|---------------------------|-----------------------------|--------------------------|
-| **Low Price**     | 0 Products                | 5 Products                  | 1 Product                |
-| **Average Price** | 6 Products                | 5 Products                  | 5 Products               |
+| **Low Price**     | 1 Products                | 5 Products                  | 1 Product                |
+| **Average Price** | 5 Products                | 5 Products                  | 5 Products               |
 | **High Price**    | 4 Products                | 0 Products                  | 4 Products               |
 
 ---
